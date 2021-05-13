@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "1f48cd30-2804-4d10-a9bb-2afb6a11d699-GMTI_photoj2000q4m11t09h12302500.jff.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
